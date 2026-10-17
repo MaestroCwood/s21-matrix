@@ -1,0 +1,9 @@
+*.o
+*.a
+*.exe
+*.out
+*.gcda
+*.gcno
+*.gcov
+coverage.info
+report/
